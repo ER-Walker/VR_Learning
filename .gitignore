@@ -2,3 +2,6 @@
 Unit_1/VR_Room_Project/Library/
 Unit_1/VR_Room_Project/Temp/
 Unit_1/VR_Room_Project/Logs/
+
+#Ignore .idea directory
+.idea/
